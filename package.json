@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "read_me_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "a program that will generate a readMe.md file automatically",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "rene m trevino",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neyneyalldayday/readMe-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neyneyalldayday/readMe-generator/issues"
+  },
+  "homepage": "https://github.com/neyneyalldayday/readMe-generator#readme"
 }

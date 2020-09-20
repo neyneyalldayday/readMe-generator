@@ -1,2 +1,4 @@
-# readMe-generator
-a program that will generate a readMe.md file automatically
+# readme generator
+ 
+## Description
+a program that creates a readMe.md file for you
