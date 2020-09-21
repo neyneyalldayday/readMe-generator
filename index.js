@@ -69,14 +69,15 @@ inquirer
         try {
             const title = `# ${response.title}`;
             const description = `\n \n## Description\n${response.description}`;
+            const tableOfCon = `\n \n## Table of Contents\n\n* [Installation](#Installation) \n* [Usage](#Usage) \n* [Licence}(#Licence) \n*[contributor](#contributor0 \n* [Tests](#Tests) \n* [Questions](#Questions)`;
             const installation = `\n \n## Installation\n${response.installation}`;
             const usage = `\n \n## usage\n${response.usage}`;
             const contributor = `\n \n## contibutor\n${response.contributor}`;
-            const licence = `\n \n## Licence\n${response.licence}`;
+            const licence = `\n \n## Licence\n\n![Badge](https://img.shields.io/badge/license-${response.licence}-blue)`;
             const tests = `\n \n## Tests\n${response.tests}`;
-            const username = `\n \n## Username\n${response.username}`;
-            const email = `\n \n## Email\n${response.email}`;
-            const readmeToWrite = title + description + installation + usage + contributor + tests + licence + username + email
+            const username = `\n \n## Username\n\n[Github Profile](https://github.com/${response.github}/)`;
+            const email = `\n \n## Email\n\nI can be contacted at this email: <${response.email}>`;
+            const readmeToWrite = title + description + tableOfCon + installation + usage + contributor + tests + licence + username + email
             await writeFileAsync("README.md", readmeToWrite);
             console.log("README created")
         } catch(err) {

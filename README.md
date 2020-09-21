@@ -1,25 +1,37 @@
-# readme creator
+# readMe generator
  
 ## Description
-a program that writes readme files
+a program that will create a readme for you
+ 
+## Table of Contents
+
+* [Installation](#Installation) 
+* [Usage](#Usage) 
+* [Licence}(#Licence) 
+*[contributor](#contributor0 
+* [Tests](#Tests) 
+* [Questions](#Questions)
  
 ## Installation
 node
  
 ## usage
-use for a quick readme
+follow command line prompts
  
 ## contibutor
-true
+false
  
 ## Tests
-run index.js
+just this one
  
 ## Licence
-undefined
+
+![Badge](https://img.shields.io/badge/license-undefined-blue)
  
 ## Username
-neyneyalldayday
+
+[Github Profile](https://github.com/undefined/)
  
 ## Email
-drfrankenstein123@gmail.com
+
+I can be contacted at this email: <drfrankenstein123@gmail.com>
