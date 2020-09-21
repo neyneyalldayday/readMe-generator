@@ -1,32 +1,33 @@
-# readme
+# readMe generator
  
 ## Description
 
-jsl
+a program desingned to write a proffesional readMe
  
 ## Table of Contents
 
 * [Installation](#Installation) 
 * [Usage](#Usage) 
 * [Licence](#Licence) 
-*[contributor](#contributor0 
-* [Tests](#Tests) 
-* [Questions](#Questions)
+*[contributor](#contributor) 
+* [Tests](#Tests)
+*[username](#username) 
+* [email](#email)
  
 ## Installation
 
-all of it
+intialize with npm and then install dependencies
  
 ## usage
 
-like a boss
+commmandline
  
 ## contibutor
 
 undefined
  
 ## Tests
-test me
+no tests
  
 ## Licence
 
@@ -34,7 +35,7 @@ test me
  
 ## Username
 
-[Github Profile](https://github.com/https://github.com/neyneyalldayday/)
+[Github Profile](https://github.com/neyneyalldayday/)
  
 ## Email
 
