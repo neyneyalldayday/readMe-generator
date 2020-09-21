@@ -69,7 +69,7 @@ inquirer
         try {
             const title = `# ${response.title}`;
             const description = `\n \n## Description\n${response.description}`;
-            const tableOfCon = `\n \n## Table of Contents\n\n* [Installation](#Installation) \n* [Usage](#Usage) \n* [Licence}(#Licence) \n*[contributor](#contributor0 \n* [Tests](#Tests) \n* [Questions](#Questions)`;
+            const tableOfCon = `\n \n## Table of Contents\n\n* [Installation](#Installation) \n* [Usage](#Usage) \n* [Licence](#Licence) \n*[contributor](#contributor0 \n* [Tests](#Tests) \n* [Questions](#Questions)`;
             const installation = `\n \n## Installation\n${response.installation}`;
             const usage = `\n \n## usage\n${response.usage}`;
             const contributor = `\n \n## contibutor\n${response.contributor}`;
