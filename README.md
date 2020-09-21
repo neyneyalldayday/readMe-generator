@@ -1,4 +1,25 @@
-# readme generator
+# readme creator
  
 ## Description
-a program that creates a readMe.md file for you
+a program that writes readme files
+ 
+## Installation
+node
+ 
+## usage
+use for a quick readme
+ 
+## contibutor
+true
+ 
+## Tests
+run index.js
+ 
+## Licence
+undefined
+ 
+## Username
+neyneyalldayday
+ 
+## Email
+drfrankenstein123@gmail.com

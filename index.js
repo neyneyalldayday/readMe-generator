@@ -69,7 +69,14 @@ inquirer
         try {
             const title = `# ${response.title}`;
             const description = `\n \n## Description\n${response.description}`;
-            const readmeToWrite = title + description
+            const installation = `\n \n## Installation\n${response.installation}`;
+            const usage = `\n \n## usage\n${response.usage}`;
+            const contributor = `\n \n## contibutor\n${response.contributor}`;
+            const licence = `\n \n## Licence\n${response.licence}`;
+            const tests = `\n \n## Tests\n${response.tests}`;
+            const username = `\n \n## Username\n${response.username}`;
+            const email = `\n \n## Email\n${response.email}`;
+            const readmeToWrite = title + description + installation + usage + contributor + tests + licence + username + email
             await writeFileAsync("README.md", readmeToWrite);
             console.log("README created")
         } catch(err) {
