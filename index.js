@@ -68,16 +68,16 @@ inquirer
     async function writeReadme() {
         try {
             const title = `# ${response.title}`;
-            const description = `\n \n## Description\n\n${response.description}`;
-            const tableOfCon = `\n \n## Table of Contents\n\n* [Installation](#Installation) \n* [Usage](#Usage) \n* [Licence](#Licence) \n*[contributor](#contributor) \n* [Tests](#Tests)\n*[username](#username) \n* [email](#email)`;
-            const installation = `\n \n## Installation\n\n${response.installation}`;
+            const description = `\n \n## Description\n \n${response.description}`;
+            const tableOfCon = `\n \n## Table of Contents\n \n* [Installation](#Installation) \n* [Usage](#Usage) \n* [License](#License) \n* [contributor](#contributor) \n* [Tests](#Tests)\n* [username](#username) \n* [email](#email)`;
+            const installation = `\n \n## Installation\n \n${response.installation}`;
             const usage = `\n \n## usage\n\n${response.usage}`;
-            const contributor = `\n \n## contibutor\n\n${response.contributors}`;
-            const licence = `\n \n## Licence\n\n![Badge](https://img.shields.io/badge/license-${response.licence}-blue)`;
+            const contributor = `\n \n## contributor \n \n${response.contributors}`;
+            const license = `\n \n## Licence\n\n![Badge](https://img.shields.io/badge/license-${response.license}-green)`;
             const tests = `\n \n## Tests\n${response.tests}`;
             const username = `\n \n## Username\n\n[Github Profile](https://github.com/${response.username}/)`;
             const email = `\n \n## Email\n\nI can be contacted at this email: <${response.email}>`;
-            const readmeToWrite = title + description + tableOfCon + installation + usage + contributor + tests + licence + username + email
+            const readmeToWrite = title + description + tableOfCon + installation + usage + contributor + tests + license + username + email
             await writeFileAsync("README.md", readmeToWrite);
             console.log("README created")
         } catch(err) {

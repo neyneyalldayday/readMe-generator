@@ -1,37 +1,37 @@
-# readMe generator
+# A readme creator
  
 ## Description
-
-a program desingned to write a proffesional readMe
+ 
+A program that creats a read me
  
 ## Table of Contents
-
+ 
 * [Installation](#Installation) 
 * [Usage](#Usage) 
-* [Licence](#Licence) 
-*[contributor](#contributor) 
+* [License](#License) 
+* [contributor](#contributor) 
 * [Tests](#Tests)
-*[username](#username) 
+* [username](#username) 
 * [email](#email)
  
 ## Installation
-
-intialize with npm and then install dependencies
+ 
+npm install
  
 ## usage
 
-commmandline
+command line
  
-## contibutor
-
+## contributor 
+ 
 undefined
  
 ## Tests
-no tests
+none
  
 ## Licence
 
-![Badge](https://img.shields.io/badge/license-undefined-blue)
+![Badge](https://img.shields.io/badge/license-Mozilla Public License 2.0-green)
  
 ## Username
 
