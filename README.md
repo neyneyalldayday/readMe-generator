@@ -1,7 +1,8 @@
-# readme generator
+# readme
  
 ## Description
-a program designed to create a professional read me off the command line
+
+jsl
  
 ## Table of Contents
 
@@ -13,16 +14,19 @@ a program designed to create a professional read me off the command line
 * [Questions](#Questions)
  
 ## Installation
-initialize with npm init and then install dependencies
+
+all of it
  
 ## usage
-use command line prompts to create your readme
+
+like a boss
  
 ## contibutor
-true
+
+undefined
  
 ## Tests
-no tests
+test me
  
 ## Licence
 
@@ -30,7 +34,7 @@ no tests
  
 ## Username
 
-[Github Profile](https://github.com/undefined/)
+[Github Profile](https://github.com/https://github.com/neyneyalldayday/)
  
 ## Email
 
