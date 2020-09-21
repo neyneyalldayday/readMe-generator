@@ -1,7 +1,7 @@
-# a readme generator
+# readme generator
  
 ## Description
-a program designed to create a professional readme
+a program designed to create a professional read me off the command line
  
 ## Table of Contents
 
@@ -13,16 +13,16 @@ a program designed to create a professional readme
 * [Questions](#Questions)
  
 ## Installation
-initialize with npm init and install dependencies
+initialize with npm init and then install dependencies
  
 ## usage
-use with commandline prompts
+use command line prompts to create your readme
  
 ## contibutor
-false
+true
  
 ## Tests
-idk how to really answer the tests question
+no tests
  
 ## Licence
 
