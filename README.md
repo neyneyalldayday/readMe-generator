@@ -1,8 +1,8 @@
-# A readme creator
+# good read me generator
  
 ## Description
  
-A program that creats a read me
+this program will write proper readme.md files from the command line
  
 ## Table of Contents
  
@@ -16,22 +16,22 @@ A program that creats a read me
  
 ## Installation
  
-npm install
+initialization of the file and then npm install
  
 ## usage
 
-command line
+use this program on the command line in yout terminal. just follow prompts
  
 ## contributor 
  
-undefined
+nene just had to work
  
 ## Tests
-none
+jest
  
 ## Licence
 
-![Badge](https://img.shields.io/badge/license-Mozilla Public License 2.0-green)
+![Badge](https://img.shields.io/badge/license-MIT License-green)
  
 ## Username
 

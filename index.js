@@ -27,8 +27,8 @@ inquirer
     name: "usage"
   },
   {
-    type: "confirm",
-    message: "Would you like to include the contributors covenant?",
+    type: "input",
+    message: "Would you like to include the contributors guidelines?",
     name: "contributor"
   },
   {
@@ -72,7 +72,7 @@ inquirer
             const tableOfCon = `\n \n## Table of Contents\n \n* [Installation](#Installation) \n* [Usage](#Usage) \n* [License](#License) \n* [contributor](#contributor) \n* [Tests](#Tests)\n* [username](#username) \n* [email](#email)`;
             const installation = `\n \n## Installation\n \n${response.installation}`;
             const usage = `\n \n## usage\n\n${response.usage}`;
-            const contributor = `\n \n## contributor \n \n${response.contributors}`;
+            const contributor = `\n \n## contributor \n \n${response.contributor}`;
             const license = `\n \n## Licence\n\n![Badge](https://img.shields.io/badge/license-${response.license}-green)`;
             const tests = `\n \n## Tests\n${response.tests}`;
             const username = `\n \n## Username\n\n[Github Profile](https://github.com/${response.username}/)`;
