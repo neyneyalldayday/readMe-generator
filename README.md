@@ -2,7 +2,7 @@
  
 ## Description
  
-a program that will create a read me file for you
+a program that will write a professional read me for you
  
 ## Table of Contents
  
@@ -16,22 +16,22 @@ a program that will create a read me file for you
  
 ## Installation
  
-initialize with npm init and then download required files with npm install
+npm init npm install
  
 ## usage
 
-follow the prompts from the command line
+follow the prompts on the command line
  
 ## contributor 
  
-no
+no thank you
  
 ## Tests
 jest
  
 ## Licence
 
-![Badge](https://img.shields.io/badge/license--green)
+![Badge](https://img.shields.io/badge/license-MIT License-green)
  
 ## Username
 
