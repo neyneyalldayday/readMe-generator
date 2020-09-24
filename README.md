@@ -1,8 +1,8 @@
-# a good readme generator
+# a good read me generator
  
 ## Description
  
-a program that will write professional looking projects for you following prompts
+a program that will create a read me file for you
  
 ## Table of Contents
  
@@ -16,26 +16,26 @@ a program that will write professional looking projects for you following prompt
  
 ## Installation
  
-initialize with npm and then instal your requirements with npm install
+initialize with npm init and then download required files with npm install
  
 ## usage
 
-follow the propts on the command line
+follow the prompts from the command line
  
 ## contributor 
  
-none
+no
  
 ## Tests
 jest
  
 ## Licence
 
-![Badge](https://img.shields.io/badge/license-MIT License-green)
+![Badge](https://img.shields.io/badge/license--green)
  
 ## Username
 
-[Github Profile](https://github.com/neyneyneyalldayday/)
+[Github Profile](https://github.com/neyneyalldayday/)
  
 ## Email
 
