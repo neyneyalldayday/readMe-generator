@@ -1,8 +1,8 @@
-# good read me generator
+# a good readme generator
  
 ## Description
  
-this program will write proper readme.md files from the command line
+a program that will write professional looking projects for you following prompts
  
 ## Table of Contents
  
@@ -16,15 +16,15 @@ this program will write proper readme.md files from the command line
  
 ## Installation
  
-initialization of the file and then npm install
+initialize with npm and then instal your requirements with npm install
  
 ## usage
 
-use this program on the command line in yout terminal. just follow prompts
+follow the propts on the command line
  
 ## contributor 
  
-nene just had to work
+none
  
 ## Tests
 jest
@@ -35,7 +35,7 @@ jest
  
 ## Username
 
-[Github Profile](https://github.com/neyneyalldayday/)
+[Github Profile](https://github.com/neyneyneyalldayday/)
  
 ## Email
 
