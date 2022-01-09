@@ -1,10 +1,8 @@
-https://youtu.be/eGucMKAt068
-
-# a good read me generator
+# buga
  
 ## Description
  
-a program that will write a professional read me for you
+buga uga duga
  
 ## Table of Contents
  
@@ -18,15 +16,15 @@ a program that will write a professional read me for you
  
 ## Installation
  
-npm init npm install
+toootsie
  
 ## usage
 
-follow the prompts on the command line
+like a boss
  
 ## contributor 
  
-no thank you
+yeah you dont help you dont eat
  
 ## Tests
 jest
